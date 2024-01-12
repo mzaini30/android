@@ -47,17 +47,6 @@ async function init() {
         `package ${data.id};`
     );
 
-    ubah(
-        `android/app/src/main/java/${idPecah[0]}/${idPecah[1]}/${idPecah[2]}/AppOpenManager.java`,
-        /package .+;/,
-        `package ${data.id};`
-    );
-
-    ubah(
-        `android/app/src/main/java/${idPecah[0]}/${idPecah[1]}/${idPecah[2]}/JavaScriptInterface.java`,
-        /package .+;/,
-        `package ${data.id};`
-    );
 
     ubah(
         file.strings,
