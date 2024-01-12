@@ -15,5 +15,11 @@
     "svelte": "^4.2.8",
     "tailwindcss": "^3.4.1",
     "vite": "^5.0.8"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.11.8",
+    "flowbite": "^2.2.1",
+    "flowbite-svelte": "^0.44.21",
+    "tailwind-merge": "^2.2.0"
   }
 }
