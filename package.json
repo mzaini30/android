@@ -21,6 +21,7 @@
     "@vitejs/plugin-legacy": "^5.2.0",
     "flowbite": "^2.2.1",
     "flowbite-svelte": "^0.44.21",
+    "md5": "^2.3.0",
     "svelte-spa-router": "^4.0.1",
     "tailwind-merge": "^2.2.0",
     "zx": "^7.2.3"
