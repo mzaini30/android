@@ -17,6 +17,7 @@
     "vite": "^5.0.8"
   },
   "dependencies": {
+    "@liuli-util/vite-plugin-chunk-node-modules": "^0.1.1",
     "@popperjs/core": "^2.11.8",
     "@vitejs/plugin-legacy": "^5.2.0",
     "flowbite": "^2.2.1",
